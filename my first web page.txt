@@ -1,0 +1,11 @@
+<html>
+       <head>
+          <title>Sri Lanka</title></head>
+          <body><h2><center><font face="arial" color="blue">SRILANKA</font></center></h2>
+                  <center><img src="srilanka.jpeg"</center>
+                  <center><font face="arial" size="2">A map of Sri Lanka</font></center>
+          <p> Sri Lanka is an island located off the southern coast of India. Sri Lanka is surrounded by the Indian ocean.
+              The geography of Sri Lanka includes coastal plains in the north and hills and mountains in the interior.The
+              government system is a republic. The chief of state and head of government is the president</p> 
+          </body>
+</html>                                                                                        
